@@ -1,1 +1,0 @@
-mongod --dbpath /Volumes/Studies/Lean-MongoDB/macOS/data --logpath /Volumes/Studies/Lean-MongoDB/macOS/logs/mongo.log
